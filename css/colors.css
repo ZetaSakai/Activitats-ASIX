@@ -1,0 +1,47 @@
+.table-text-color{
+    color: whitesmoke;
+}
+
+.bg-crimson {
+    background-color: crimson;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.blue-ocean {
+    background-color: rgb(56, 116, 180);
+}
+
+.yellow {
+    background-color: rgb(233, 213, 125);
+}
+
+.violet {
+    background-color: rgb(132, 81, 132);
+}
+
+.red {
+    background-color: rgb(198, 134, 134);
+}
+
+.orange {
+    background-color: rgb(229, 186, 105);
+}
+
+.celeste {
+    background-color: rgb(105, 186, 229);
+}
+
+.green-back{
+    background-color: rgb(128, 195, 172);
+}
+
+.normal {
+    background-color: rgb(210, 138, 138);
+}
+
+.grey-twin {
+    background-color: rgb(173, 173, 173);
+}
