@@ -45,3 +45,7 @@
 .grey-twin {
     background-color: rgb(173, 173, 173);
 }
+
+td {
+    color: white;
+}
