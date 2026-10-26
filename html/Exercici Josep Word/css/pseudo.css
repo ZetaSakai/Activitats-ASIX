@@ -1,0 +1,40 @@
+a:visited {
+    color: crimson;
+}
+p:hover {
+    color: blue;
+}
+p:active {
+    color: green;
+}
+
+input:focus {
+    background-color: yellow;
+}
+
+input:checked {
+    border: solid;
+    background-color: fuchsia;
+}
+p:first-of-type {
+    color: blue;
+}
+
+p::before {
+    content: "Paragraf:"
+}
+
+p::after {
+    content: "."
+}
+
+p::first-letter {
+    color: red;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: larger;
+}
+
+p::selection {
+    color: black;
+    background-color: blue;
+}

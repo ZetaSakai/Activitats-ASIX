@@ -1,0 +1,24 @@
+* {
+    border: red 1px solid;
+}
+
+h2{
+    color:purple ;
+    background-color: orange ;
+}
+
+body{
+    background-color:#bdc3c7
+}
+
+h1 {
+    color: #9b59b6;
+}
+
+li {
+    color: #146299;
+}
+
+p {
+    background-color: yellow;
+}
